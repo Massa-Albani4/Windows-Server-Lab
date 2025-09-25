@@ -1,7 +1,5 @@
-# Windows Server administration Lab
-Hands-on lab for Windows Server 2012 R2 setup with AD, DNS, DHCP, File Server, printer services, and GPOs
-
 # Windows Server Administration Lab
+Hands-on lab for Windows Server 2012 R2 setup with AD, DNS, DHCP, File Server, printer services, and GPOs
 
 ## Overview
 This project simulates an enterprise IT environment using Windows Server 2012 R2.  
